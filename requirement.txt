@@ -1,0 +1,9 @@
+streamlit
+pandas 
+numpy
+sklearn
+times
+json
+math 
+
+//For using the conda you will compain with some xml formal EXcel sheet
