@@ -140,5 +140,3 @@ if st.sidebar.checkbox('Show ML Models'):
 
 if st.sidebar.checkbox('Show Raw Data'):
 	df
-
-st.title('Important: This model based on my excel sheet values it cannot predict the accuract 🎢')
